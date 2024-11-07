@@ -1,4 +1,4 @@
-var figlet = require("figlet");
+const figlet = require("figlet");
 
 figlet.text(
     "Boo!",
